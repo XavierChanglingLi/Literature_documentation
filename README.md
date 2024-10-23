@@ -1,6 +1,6 @@
 # Literature_documentation
 
-## LLM Alignment 
+## AI Alignment 
 
 ## AI Ethics
 
